@@ -19,5 +19,4 @@
 ---
 - [ClawWork](github.com/HKUDS/ClawWork)
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile)
-
--[accomplish-ai](https://github.com/accomplish-ai)
+- [accomplish-ai](https://github.com/accomplish-ai)
