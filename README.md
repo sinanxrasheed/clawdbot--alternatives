@@ -20,6 +20,7 @@
 - [ClawWork](github.com/HKUDS/ClawWork)
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile)
 - [accomplish-ai](https://github.com/accomplish-ai)
+
 *Others for Dependencies*
 ---
-[Helixir](https://github.com/nikita-rulenko/Helixir)
+- [Helixir](https://github.com/nikita-rulenko/Helixir)
